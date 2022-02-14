@@ -1,13 +1,13 @@
 # Graduation-Project---First-term
 
-Project aim is to improve printed products from 3d printer and detecting failrues on the products to increase productivity. In that purpose, using image processing for detecting failrues on the printed objects. In this semester, focusing on the printed products. In image processing part, focusing on 2 main parts as pre image processing for making the images that are taken from cameras turning into processed images and developing algorithms for detecting failrues on the processed images. 
+Projec aim is to improve printed products from 3d printer and detecting failrues on the products to increase productivity. In that purpose, using image processing for detecting failrues on the printed objects. In this semester, focusing on the printed products. In image processing part, focusing on 2 main parts as pre image processing for making the images that are taken from cameras turning into processed images and developing algorithms for detecting failrues on the processed images. 
 
 By using different algortihms that are made by myself for image processing such as Preprocessing Algortihms,Contour detection algorithms,Shape and Contour matching algorithms,Failrue detection algorihms, Feature extraction algorithms and more.
 
 # Preprocessing
 In image processing part we are focusing on 2 main parts as pre image processing for making the images that are taken from cameras turning into processed images and developing algorithms for detecting failrues on the processed images. 
 
-In the image preprocessing stage, we apply filtering, threshold methods and connected object extraction on the image taken from the camera, respectively.
+In the image preprocessing stage, first applying filtering, threshold methods and connected object extraction on the image taken from the camera, respectively.
 After performing these operations, the objects of interest on the image are made more specific and easy to process. 
 
 In the study, the Gaussian filtering method, which uses a 5x5 core matrix, is used. Choosing a large size of the core matrix reduces the noise on the image and makes it blurry.
