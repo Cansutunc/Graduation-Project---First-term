@@ -1,6 +1,6 @@
 # Graduation-Project---First-term
 
-Projec aim is to improve printed products from 3d printer and detecting failrues on the products to increase productivity. In that purpose, using image processing for detecting failrues on the printed objects. In this semester, focusing on the printed products. In image processing part, focusing on 2 main parts as pre image processing for making the images that are taken from cameras turning into processed images and developing algorithms for detecting failrues on the processed images. 
+Project aim is to improve printed products from 3d printer and detecting failrues on the products to increase productivity. In that purpose, using image processing for detecting failrues on the printed objects. In this semester, focusing on the printed products. In image processing part, focusing on 2 main parts as pre image processing for making the images that are taken from cameras turning into processed images and developing algorithms for detecting failrues on the processed images. 
 
 By using different algortihms that are made by myself for image processing such as Preprocessing Algortihms,Contour detection algorithms,Shape and Contour matching algorithms,Failrue detection algorihms, Feature extraction algorithms and more.
 
