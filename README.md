@@ -1,3 +1,4 @@
+# Graduation Project First Part Focuses on Image Processing And Second Part will focus on Deep Learning...Next Deep Learning Repo will be uploaded soon
 # Graduation-Project-Image Processing 
 Project aim is to improve printed products from 3d printer and detecting failrues on the products to increase productivity. In that purpose, using image processing for detecting failrues on the printed objects. In this semester, focusing on the printed products. In image processing part, focusing on 2 main parts as pre image processing for making the images that are taken from cameras turning into processed images and developing algorithms for detecting failrues on the processed images. 
 
